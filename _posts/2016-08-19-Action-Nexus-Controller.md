@@ -12,6 +12,7 @@ In truth, what follows is not something that I would probably use much in a prof
 ### Enter: Action Nexus Controller
 
 Here is the core class:
+
 ```scala
 case class ActionNexusActor(children:Seq[ActorRef]) extends Actor with LazyLogging{
 
