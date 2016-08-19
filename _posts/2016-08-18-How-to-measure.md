@@ -11,11 +11,11 @@ From the outset, I recommend splitting *intrinsic* factors from *extrinsic* fact
 
 ### Extrinsic Factors
 Here are some simple things to get started with:
-* **Sleep** - Jawbone Up tracks dubiously detailed sleep records, and even if you just use the app with your phone you can track when you go to bed, when you wake up, how much sleep you get.  Those three measures are probably a sufficient start for most research, see their api [here](https://jawbone.com/up/developer).
-* **Workouts** - I am a fan of Strava for tracking my workouts, and they have a great API [here](https://strava.github.io/api/)
-* **Nutrition** - there are a lot of ways to cut this - calories, caffeine, water, alcohol, home cooked food, frequency of eating, timing of eating, etc. - and research varies.  And unless you are a fastidious food tracker, there is not a great way to capture this data unfortunately.  Most food journals have API's to pull the data down, but they all require some level of you going recording data in an app.  I have used Jawbone's [Caffeine App](https://itunes.apple.com/us/app/up-coffee/id828031130?mt=8) and their general food journal, both of which are accessible through the [api](https://jawbone.com/up/developer)
-* **Weather** - An integral environmental factor, and forecast.io has a nice [api](https://developer.forecast.io/)
-* **Location** - You are carrying a portable GPS tracker around, use it!  There is a nice opensource geofencing app called [locative](https://my.locative.io/) that may come in handy.
+* __Sleep__ - Jawbone Up tracks dubiously detailed sleep records, and even if you just use the app with your phone you can track when you go to bed, when you wake up, how much sleep you get.  Those three measures are probably a sufficient start for most research, see their api [here](https://jawbone.com/up/developer).
+* __Workouts__ - I am a fan of Strava for tracking my workouts, and they have a great API [here](https://strava.github.io/api/)
+* __Nutrition__ - there are a lot of ways to cut this - calories, caffeine, water, alcohol, home cooked food, frequency of eating, timing of eating, etc. - and research varies.  And unless you are a fastidious food tracker, there is not a great way to capture this data unfortunately.  Most food journals have API's to pull the data down, but they all require some level of you going recording data in an app.  I have used Jawbone's [Caffeine App](https://itunes.apple.com/us/app/up-coffee/id828031130?mt=8) and their general food journal, both of which are accessible through the [api](https://jawbone.com/up/developer)
+* __Weather__ - An integral environmental factor, and forecast.io has a nice [api](https://developer.forecast.io/)
+* __Location__ - You are carrying a portable GPS tracker around, use it!  There is a nice opensource geofencing app called [locative](https://my.locative.io/) that may come in handy.
 
 Also consider what derived measures you can generate from the raw data.  Given the time you go to bed and the time you wake up, you can get the total hours of sleep, for instance.  Or for more nontrivial combinations, like using location to determine if I take an afternoon walk, or by combinging the workouts with location to determine whether I take the subway to work or ride my bike.
 
