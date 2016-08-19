@@ -1,18 +1,12 @@
 ---
 layout: default
-title: About blueface
+title: About Thatcher
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+Hi there - I am a software developer, live in NYC, work in finance, and I am interested in measuring various aspects of my life to better understand how I tick.  Data driven life.  I am a runner (long distance trail running), biker (fixie city biking), and rock climber (trad is rad!).  Hit me up at thatcher (dot) clay (at) gmail (dot) com.
 
-> It supports blockquotes, too.
+> Make the most of what we yet may spend,
+> before we too, into the dust descend...
+  
+The theme on this site is courtesy of [blueface](https://github.com/tnguyen/blueface/).  All appropriate kudos to them.
 
-## blueface on the Internet
-
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
-
-[github]: https://github.com/tnguyen/blueface/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io

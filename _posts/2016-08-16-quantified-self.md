@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantified Self"
-date: 2016-08-18 10:00:00
+date: 2016-08-16 10:00:00
 tags: [intro,quantlife]
 ---
 
