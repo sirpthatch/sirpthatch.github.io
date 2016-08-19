@@ -11,6 +11,7 @@ From the outset, I recommend splitting *intrinsic* factors from *extrinsic* fact
 
 ### Extrinsic Factors
 Here are some simple things to get started with:
+
 - __Sleep__ - Jawbone Up tracks dubiously detailed sleep records, and even if you just use the app with your phone you can track when you go to bed, when you wake up, how much sleep you get.  Those three measures are probably a sufficient start for most research, see their api [here](https://jawbone.com/up/developer).
 - __Workouts__ - I am a fan of Strava for tracking my workouts, and they have a great API [here](https://strava.github.io/api/)
 - __Nutrition__ - there are a lot of ways to cut this - calories, caffeine, water, alcohol, home cooked food, frequency of eating, timing of eating, etc. - and research varies.  And unless you are a fastidious food tracker, there is not a great way to capture this data unfortunately.  Most food journals have API's to pull the data down, but they all require some level of you going recording data in an app.  I have used Jawbone's [Caffeine App](https://itunes.apple.com/us/app/up-coffee/id828031130?mt=8) and their general food journal, both of which are accessible through the [api](https://jawbone.com/up/developer)
