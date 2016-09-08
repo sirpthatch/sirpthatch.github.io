@@ -34,7 +34,7 @@ print("Loading basemap...")
 #  coords = shp.bounds
 
 full_map = [-74.2555913638106, 40.49611539521161, -73.7000090638712, 40.91553277600008]
-manhattan_map = [-74.0555913638106, 40.65582408560584, -73.9000090638712, 40.91553277600008]
+manhattan_map = [-74.0555913638106, 40.69582408560584, -73.9000090638712, 40.88553277600008]
 coords = manhattan_map
 
 w, h = coords[2] - coords[0], coords[3] - coords[1]
@@ -93,12 +93,13 @@ cmap_list = [x for x in df_map.median_age.apply(lambda x: (0,0,0,0) if x == 0 el
 #cmap_list = [cmap(x*1.0/len(all_tracts)) for x in df_map.tract.apply(lambda y:all_tracts.index(y))]
 pc.set_facecolor(cmap_list)
 ax.add_collection(pc)
-m.drawmapscale(
-    coords[0] + 0.08, coords[1] + -0.01,
-    coords[0], coords[1], 10.,
-    fontsize=16, barstyle='fancy', labelstyle='simple',
-    fillcolor1='w', fillcolor2='#555555', fontcolor='#555555',
-    zorder=5, ax=ax)
+m.drawmapboundary(ax=ax, zorder=5)
+#m.drawmapscale(
+#    coords[0] + 0.08, coords[1] + -0.01,
+#    coords[0], coords[1], 10.,
+#    fontsize=16, barstyle='fancy', labelstyle='simple',
+#    fillcolor1='w', fillcolor2='#555555', fontcolor='#555555',
+#    zorder=5, ax=ax)
 
 fig.suptitle("Median Citibike Usage Age by Census Block", fontdict={'size':24, 'fontweight':'bold'}, y=0.92)
 #plt.show()
