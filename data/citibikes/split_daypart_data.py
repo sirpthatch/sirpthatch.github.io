@@ -2,8 +2,11 @@ import os, sys
 import pandas as pd
 from datetime import datetime
 
-input_file = "/Volumes/Trunk/Data/citibike/citibike-tripdata-final-fips-date-age.csv"
-output_directory = "/Volumes/Trunk/Data/citibike/daypart_analysis/"
+#input_file = "/Volumes/Trunk/Data/citibike/citibike-tripdata-final-fips-date-age.csv"
+#output_directory = "/Volumes/Trunk/Data/citibike/daypart_analysis/"
+
+input_file = "citibike-tripdata-withcensus-date-age.csv"
+output_directory = "daypart_analysis"
 
 if not os.path.exists(output_directory):
   os.makedirs(output_directory)
@@ -12,7 +15,8 @@ def fips_to_tract(fips):
   return str(fips)[4:11]
 
 frame = pd.read_csv(input_file)
-frame["Start_Tract"] = frame["start_fips"].apply(fips_to_tract)
+#frame["Start_Tract"] = frame["start_fips"].apply(fips_to_tract)
+frame["Start_Tract"] = frame["Start_FIPS"].apply(fips_to_tract)
 
 print("Computing the overall median age by tract")
 frame.groupby("Start_Tract").Age.median().to_csv(os.path.join(output_directory, "medianage.tract.csv"))
@@ -54,6 +58,8 @@ weekday_rides = frame[frame["Is_Weekday"] == True]
 weekend_rides = frame[frame["Is_Weekday"] == False]
 
 print("Computing weekday versus weekend median ages by geography")
+print("Weekday Median: %s"%weekday_rides.Age.median())
+print("Weekend Median: %s"%weekend_rides.Age.median())
 weekday_rides.groupby("Start_Tract").Age.median().to_csv(os.path.join(output_directory,"medianage.weekday.tract.csv"))
 weekend_rides.groupby("Start_Tract").Age.median().to_csv(os.path.join(output_directory,"medianage.weekend.tract.csv"))
 

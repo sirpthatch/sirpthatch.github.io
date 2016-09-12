@@ -3,7 +3,9 @@ import pandas as pd
 from datetime import datetime
 
 data_file = "/Volumes/Trunk/Data/citibike/citibike-tripdata-final-fips.csv"
-output_file = "/Volumes/Trunk/Data/citibike/citibike-tripdata-final-fips-date-age.csv"
+data_file = "citibike-tripdata-withcensus.csv"
+output_file = "citibike-tripdata-withcensus-date-age.csv"
+#output_file = "/Volumes/Trunk/Data/citibike/citibike-tripdata-final-fips-date-age.csv"
 
 DATE_FORMATS = ["%Y-%m-%d %H:%M:%S","%m/%d/%Y %H:%M:%S", "%m/%d/%Y %H:%M"]
 def parse_date(date_str):
@@ -24,9 +26,10 @@ def try_parse(x, format_str):
     return None
 
 def compute_age(year):
-  if len(str(year)) == 4:
-    return 2016 - int(year)
-  else: return None
+  try:
+    return 2016-int(year)
+  except ValueError:
+    return None
 
 frame["Age"] = frame["birth year"].apply(compute_age)
 frame["Date"] = frame.starttime.apply(lambda x:try_parse(x, "%Y%m%d"))

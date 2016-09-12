@@ -20,5 +20,8 @@ Couple of observations:
  * Citibike has so far only covered a fraction of NYC - it will be really interesting to see how this map evolves with the large citibike expansion that happened over the summer
  * There are some weird pockets of missing info - most likely because there are no citibikes located in those census tracts
 
+Weekday: 38
+Weekend: 35
+
 Small caveat - not all records have age information, so I assume you do not have to provider this data when you ssign up.  This probably introduces a bias (I can argue both ways, younger and older).  
 
