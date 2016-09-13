@@ -13,14 +13,14 @@ import csv, os
 
 
 input_data = [
-  #["medianage.tract.csv", "nyc.age.png", "Median Age"],
-  #["medianage.weekday.tract.csv", "nyc.age.weekday.png", "Weekday Median Age"],
-  #["medianage.weekeday.afternoon.tract.csv", "nyc.age.weekday.afternoon.png", "Weekday Afternoon Median Age"],
-  #["medianage.weekeday.earlymorning.tract.csv", "nyc.age.weekday.earlymorning.png", "Weekday Early Morning Median Age"],
-  #["medianage.weekeday.evening.tract.csv", "nyc.age.weekday.evening.png", "Weekday Evening Median Age"],
-  #["medianage.weekeday.morning.tract.csv", "nyc.age.weekday.morning.png", "Weekday Morning Median Age"],
-  #["medianage.weekeday.night.tract.csv", "nyc.age.weekday.night.png", "Weekday Night Median Age"],
-  #["medianage.weekend.tract.csv", "nyc.age.weekend.png", "Weekend Median Age"],
+  ["medianage.tract.csv", "nyc.age.png", "Median Age"],
+  ["medianage.weekday.tract.csv", "nyc.age.weekday.png", "Weekday Median Age"],
+  ["medianage.weekeday.afternoon.tract.csv", "nyc.age.weekday.afternoon.png", "Weekday Afternoon Median Age"],
+  ["medianage.weekeday.earlymorning.tract.csv", "nyc.age.weekday.earlymorning.png", "Weekday Early Morning Median Age"],
+  ["medianage.weekeday.evening.tract.csv", "nyc.age.weekday.evening.png", "Weekday Evening Median Age"],
+  ["medianage.weekeday.morning.tract.csv", "nyc.age.weekday.morning.png", "Weekday Morning Median Age"],
+  ["medianage.weekeday.night.tract.csv", "nyc.age.weekday.night.png", "Weekday Night Median Age"],
+  ["medianage.weekend.tract.csv", "nyc.age.weekend.png", "Weekend Median Age"],
   ["medianage.weekeend.afternoon.tract.csv", "nyc.age.weekend.afternoon.png", "Weekend Afternoon Median Age"],
   ["medianage.weekeend.earlymorning.tract.csv", "nyc.age.weekend.earlymorning.png", "Weekend Early Morning Median Age"],
   ["medianage.weekeend.evening.tract.csv", "nyc.age.weekend.evening.png", "Weekend Evening Median Age"],
@@ -29,7 +29,7 @@ input_data = [
 ]
 
 def build_choloropath(basename, output_name, title):
-  input_tract_file = os.path.join("/Volumes/Trunk/Data/citibike/daypart_analysis/", basename)
+  input_tract_file = os.path.join("daypart_analysis", basename)
   shapefilename = "geo_export_c19fb10e-b5b8-4445-9878-3350388b25bc"
   print("Reading block -> median age file...")
   tract_to_median = dict()
