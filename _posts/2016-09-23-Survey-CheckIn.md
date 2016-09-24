@@ -14,6 +14,7 @@ My analysis is only going to be effective if I get sufficient data, though I nee
 So, that said, what does it look like so far?  I have some interesting results, nothing ground breaking so far.  First, when it comes to responding, I am most likely to respond to my surveys in the afternoon - 33% of my responses came between 1 and 5, compared to only 20% coming in the morning.  When it comes to my survey itself, ideally I wanted to pick indepent attributes, with low correlations.  It looks like I mostly achieved this - the correlation between most pairs is around 35%, however the correlation between concentration and happiness is around 50%.  That is in someway an interesting result in of itself, however it probably means I need to redesign the survey to have more independence in the measures.
 
 There are two early questions that I wanted to answer:
+
 1. Am I a morning person?
 2. Does biking to work make my day better?
 
