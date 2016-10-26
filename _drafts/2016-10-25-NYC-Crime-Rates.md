@@ -7,7 +7,7 @@ tags: [nyc]
 
 A lot has been made recently about a jump in the crime rate, so I decided to take a look at the major felony rates in NYC, with the help of the [NYC OpenData project](https://data.cityofnewyork.us/).  There you can find records of all the major felonies reported, going back to 2006, with location and felony classification.  Off the bat, it is pretty easy to look at the number of crimes committed over time:
 
-![NYC Crimes Committed]({{site.url}}/assets/CrimesOverTimes.png)
+![NYC Crimes Committed]({{site.url}}/assets/CrimesOverTime.png)
 
 As you can see, crime is down overall.  But in all honesty, I look at that graph and I see a pretty steady line, dominated by grand larceny (ie, stealing).  But, lets dive in, and look at the rates of change of individual crimes:
 
