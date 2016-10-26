@@ -1,6 +1,7 @@
 # Jekyll Defaults
 title: Thatcher
 description: Muses of a quantified self.
+author: Thatcher Clay
 baseurl: "https://sirpthatch.github.io" # the subpath of your site, e.g. /blog
 
 url: "https://sirpthatch.github.io"
@@ -10,7 +11,9 @@ highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
 paginate: 4
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-seo-tag
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
