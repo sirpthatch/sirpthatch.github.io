@@ -12,10 +12,10 @@ import datetime
 import csv, os
 
 population = pd.read_csv("nyc.2010.population.byprecinct.csv")
-bike_accidents = pd.read_csv("bike.car.2015.csv")
+bike_accidents = pd.read_csv("precinct.overall.crashes.2015.csv")
 bike_accidents.columns = [x.strip() for x in bike_accidents.columns]
-output_name = "bike.car.2015.map.png"
-title = "Accident Rates btw Bike and Car in 2015"
+output_name = "bike.2015.map.png"
+title = "Accident Rates in 2015"
 
 shapefilename = "geo_export_60e803f0-6968-4766-9119-0cb262730d9f"
 print("Reading block -> median age file...")
