@@ -1,7 +1,8 @@
 {% if post.tags %}
 	{% for tag in post.tags %}
     	<span class="label label-default"><a href="{{ site.baseurl }}/tags#{{ tag }}-ref" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a></span>
-    {% endfor %}
+        {% endfor %}
+{% include share-page.html %}
 {% endif %}
 {% if page.tags %}
 	{% for tag in page.tags %}

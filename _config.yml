@@ -7,6 +7,7 @@ baseurl: "/"
 url: "https://sirpthatch.github.io"
 #url: "http://127.0.0.1:4000"
 github: https://github.com/sirpthatch
+twitter_username: sirpthatch
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
