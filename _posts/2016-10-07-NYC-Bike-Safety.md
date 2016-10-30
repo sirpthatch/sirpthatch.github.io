@@ -2,7 +2,7 @@
 layout: post
 title: "NYC Bike Safety"
 date: 2016-10-07 21:00:41
-tags: [nyc,biking,accidents]
+tags: [nyc,biking,accidents,opendata]
 ---
 One of the datasets available on the amazing NYC bike data website (available [here](http://www.nyc.gov/html/dot/html/bicyclists/bikestats.shtml)) is information on accident rates, sorted by police precinct and accident type.  They make this information available in the dreaded PDF format, and it took me a little while to get over this, however with the help of [Tabula](http://tabula.technology/) I was able to convert the PDFs into something useful.
 

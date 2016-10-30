@@ -2,7 +2,7 @@
 layout: post
 title: "NYC Population Density"
 date: 2016-09-19 10:00:00
-tags: [nyc]
+tags: [nyc, opendata]
 ---
 
 Take a look a look at this map of NYC population density, based on the 2010 census:

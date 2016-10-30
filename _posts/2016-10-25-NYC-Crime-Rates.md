@@ -2,7 +2,7 @@
 layout: post
 title: "NYC Crime Rates"
 date: 2016-10-25 11:00:00
-tags: [nyc]
+tags: [nyc, crime, opendata]
 ---
 
 A lot has been made recently about a jump in the crime rate, so I decided to take a look at the major felony rates in NYC, with the help of the [NYC OpenData project](https://data.cityofnewyork.us/).  There you can find records of all the major felonies reported, going back to 2006, with location and felony classification.  Off the bat, it is pretty easy to look at the number of crimes committed over time:
