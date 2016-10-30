@@ -2,9 +2,9 @@
 title: Thatcher
 description: Muses of a quantified self.
 author: Thatcher Clay
-baseurl: "/"
+baseurl: "https://sirpthatch.github.io"
 
-url: "https://sirpthatch.github.io"
+url: "/"
 #url: "http://127.0.0.1:4000"
 github: https://github.com/sirpthatch
 twitter_username: sirpthatch
