@@ -15,7 +15,7 @@ What does this mean for the NYC crime data?  The 2015 stats suggest a 1.6% drop 
 
 There are some precincts though which do have a significant change in crime rate in 2015:
 
-![Significant Changes in NYC Crime]({{site.url}}/assets/SignificantChangesInCrime2015.png)
+![Significant Changes in NYC Crime]({{site.baseurl}}/assets/SignificantChangesInCrime2015.png)
 
 The picture does not look great, of the 6 precincts that had a significant change (using the 95% cutoff), 5 had a turn for the worse, and there is some evidence that the one good one is a misnomer.  Here is a quick rundown of what I was able to find for each:
 
