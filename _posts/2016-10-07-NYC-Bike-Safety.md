@@ -14,12 +14,12 @@ One might think car crashes are reported more is because of more damage (both in
 
 Since this data is indexed by police precinct, it is possible to plot accident rates by geographic area.  Below is a plot of bike accidents with cars in 2015, with accident rates normalized by the 2010 census population in each precinct.
 
-![Bike on Car Accidents, 2015]({{site.url}}/assets/bike.car.2015.map.png){:class="img-responsive"}
+![Bike on Car Accidents, 2015]({{site.baseurl}}/assets/bike.car.2015.map.png){:class="img-responsive"}
 
 It is a little disheartening to note that my normal commute crosses almost all of the most dangerous precincts.  Oh well...
 
 ### Methodology
 
-The plots in this writeup are done using the [basemap package](http://matplotlib.org/basemap) from matplotlib, and a helpful tutorial [here](http://beneathdata.com/how-to/visualizing-my-location-history/).  NYC provides the data on collisions rates [here](http://www.nyc.gov/html/dot/html/bicyclists/bikestats.shtml).  NYC also provides all sorts of useful information by census tract, including population, [here](http://statisticalatlas.com/tract/New-York/Bronx-County/046201/Population).  Since the collision rates are reported by precinct and the population is by tract, you need a way to translate census tract into police precincts, for which I found a static mapping that you can pull down [here]({{site.url}}/assets/precinct_blocks_key.csv).  
+The plots in this writeup are done using the [basemap package](http://matplotlib.org/basemap) from matplotlib, and a helpful tutorial [here](http://beneathdata.com/how-to/visualizing-my-location-history/).  NYC provides the data on collisions rates [here](http://www.nyc.gov/html/dot/html/bicyclists/bikestats.shtml).  NYC also provides all sorts of useful information by census tract, including population, [here](http://statisticalatlas.com/tract/New-York/Bronx-County/046201/Population).  Since the collision rates are reported by precinct and the population is by tract, you need a way to translate census tract into police precincts, for which I found a static mapping that you can pull down [here]({{site.baseurl}}/assets/precinct_blocks_key.csv).  
 
 

@@ -7,7 +7,7 @@ tags: [nyc, opendata]
 
 Take a look a look at this map of NYC population density, based on the 2010 census:
 
-![NYC Population Density]({{site.url}}/assets/nyc.population.2010.map.png)
+![NYC Population Density]({{site.baseurl}}/assets/nyc.population.2010.map.png)
 
 As you might expect?  Looking at that map forced me to invalidate some of my previously held assumptions about NYC neighborhoods.  I knew that Manhattan was likely to be the densist borough overall, however I did not realize how much more dense it is than Brooklyn!  In fact, based on this map, it appears that Brooklyn is a lot less dense than most of Queens, Staten Island, and certainly the Bronx.  That was a big surprise to me.
 

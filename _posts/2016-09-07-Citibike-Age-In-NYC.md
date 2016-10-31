@@ -11,19 +11,19 @@ The data can be split in a lot of different ways, however I focused in on rider 
 
 Another interesting look at the age of citibike riders is by geography.  Below is a choloropeth of the overall median age of riders around the city (by where they start their rides, darker is older, range is between 44 years old in the darkest to 33 in the lightest):
 
-![Ridership Age by Census Tract]({{site.url}}/assets/nyc.age.png){:class="img-responsive"}
+![Ridership Age by Census Tract]({{site.baseurl}}/assets/nyc.age.png){:class="img-responsive"}
 
 As expected, it is far from an even distribution.  Midtown and the Upper West Side have the oldest riders (median age is 44), whereas Murray Hill, East Village, and Alphabet city tend towards younger riders (median age is 33).
 
 Certain areas (like around midtown or the financial district) are naturally going to have a higher concentation of commute related rides.  By plotting the age of weekday riders versus weekend riders, it is pretty clear that the age distribution in those neighborhoods change the most, supporting the idea that commuters trend older than the average rider:
 
-![Weekday Ridership Age by Census Tract]({{site.url}}/assets/nyc.age.weekday.png)
-![Weekend Ridership Age by Census Tract]({{site.url}}/assets/nyc.age.weekend.png)
+![Weekday Ridership Age by Census Tract]({{site.baseurl}}/assets/nyc.age.weekday.png)
+![Weekend Ridership Age by Census Tract]({{site.baseurl}}/assets/nyc.age.weekend.png)
 
 And to further drive the point home, if you take into account time of day, you can see that morning riders (during commute hours) trend much older than night time riders (after 8pm).  In fact, night time riders look a lot like the weekend riders (at least age wise).
 
-![Weekday Morning Ridership Age by Census Tract]({{site.url}}/assets/nyc.age.weekday.earlymorning.png)
-![Weekday Evening Ridership Age by Census Tract]({{site.url}}/assets/nyc.age.weekday.night.png)
+![Weekday Morning Ridership Age by Census Tract]({{site.baseurl}}/assets/nyc.age.weekday.earlymorning.png)
+![Weekday Evening Ridership Age by Census Tract]({{site.baseurl}}/assets/nyc.age.weekday.night.png)
 
 NYC is an interesting place partly because it is non-homogenous, and you can definitely see that with respect to the age of citibike riders around the city.  With the expansion of the citibike program this summer, particularly into more residential neighborhoods, I am excited to see how it evolves!
 
