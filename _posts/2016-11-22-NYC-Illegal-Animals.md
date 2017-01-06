@@ -11,19 +11,19 @@ There are animals on the streets!  Well, not really - but there are a surprising
 
 Apparently there have been 150 reports of snakes slithering about the city, accounting for about 9.4% of all the illegal pets.  [Ophiophobes](https://en.wikipedia.org/wiki/Ophidiophobia) might be a little distraught to see that they are fairly well distributed throughout the boroughs.  I am overjoyed to see that several snakes have been reported in the area around the gowanus canal, near my home.
 
-![Snakes in the City]({{site.url}}/assets/IllegalPets.Snake.NYC.png)({{site.url}}/assets/IllegalPets.Snake.NYC.png)
+[![Snakes in the City]({{site.url}}/assets/IllegalPets.Snake.NYC.png)]({{site.url}}/assets/IllegalPets.Snake.NYC.png)
 
 ### Number 2: Farm Animals
 
 Narrowly beating out snakes, there have been 179 reports of "farm animals" around the city, or about 11.2% of all reports.  Presumably this covers a wide range of animals - goats, sheep, cows maybe.  There is a conspicuous concentration of reports filed around the Wall Street area - perhaps people are calling in the [bull of Wall Street](https://en.wikipedia.org/wiki/Charging_Bull).
 
-![Farm Animals in the City]({{site.url}}/assets/IllegalPets.Farm Animal.NYC.png)({{site.url}}/assets/IllegalPets.Farm Animal.NYC.png)
+[![Farm Animals in the City]({{site.url}}/assets/IllegalPets.Farm Animal.NYC.png)]({{site.url}}/assets/IllegalPets.Farm Animal.NYC.png)
 
 ### Number 1: Roosters!
 
 Flying away with the lead, roosters have been behind 832 of the complaints, or about 52% of all illegal pet complaints in NYC.  Roosters!  Who would have thought...  But, I suppose there is some selection bias afoot here.  A secret pet goat might be easier to hide than a rooster who happily greets the day for all their neighbors to hear.  Somewhat surprisingly, it looks like you can find them virtually everywhere in the city.
 
-![Roosters in the City]({{site.url}}/assets/IllegalPets.Rooster.NYC.png)({{site.url}}/assets/IllegalPets.Rooster.NYC.png)
+[![Roosters in the City]({{site.url}}/assets/IllegalPets.Rooster.NYC.png)]({{site.url}}/assets/IllegalPets.Rooster.NYC.png)
 
 ### Honorable Mentions
 
