@@ -7,7 +7,10 @@ tags: [nyc, pluto, construction, opendata]
 
 New York City has about 8.4 million people living within the 5 boroughs, and about 5,4 billion square feet of total building space.  Sounds like a lot, but when you break this down to areas zoned for residential living, it averages out to about 531 square feet per person in the city as a whole.  This is not country living, but still, on a whole, not bad.  That said, with a place like NYC, averages often tell a misleading story, and this is certainly true when looking at how much living space people have throughout the city.
 
-Manhattan tops the charts, with 4 of the 5 neighborhoods with the highest square space per person.  At the highest overall is the Upper East Side/Carnegie Hill area, with more than 1,200 square feet per person.  This is followed by Midtown (920 sq ft/person), Battery Park City (838 sq ft/person), SoHo/Tribeca (774 sq ft/person), and finally Tody Hill, Staten Island (756 sq ft/person).  Brooklyn and Queens have the most compact living spaces, with North Corona bottoming the list at 207 sq ft per person.  The other compressed spaces are Sunset Park East (246 sq ft/person), Cypress Hill (252 sq ft/person), Sunset Park West (262 sq ft/person), and Corona (266 sq ft/person).
+{:.noresize}
+[![Top and Bottom Housing]({{site.url}}/assets/TopAndBottomHousingSizes.png)]({{site.url}}/assets/TopAndBottomHousingSizes.png)
+
+Manhattan tops the charts, with 4 of the 5 neighborhoods with the highest space per person.  At the highest overall is the Upper East Side/Carnegie Hill area, with more than 1,200 square feet per person.  This is followed by Midtown (920 sq ft/person), Battery Park City (838 sq ft/person), SoHo/Tribeca (774 sq ft/person), and finally Tody Hill, Staten Island (756 sq ft/person).  Brooklyn and Queens have the most compact living spaces, with North Corona bottoming the list at 207 sq ft per person.  The other compressed spaces are Sunset Park East (246 sq ft/person), Cypress Hill (252 sq ft/person), Sunset Park West (262 sq ft/person), and Corona (266 sq ft/person).
 
 Take a look at the city at large though:
 

@@ -17,6 +17,11 @@ body {
     overflow-y: scroll;
     overflow-x: hidden;
 }
+#main .noresize img {
+  margin-left:auto;
+  margin-right:auto;
+  width:inherit;
+}
 #main h1,
 h2,
 h3,

@@ -7,7 +7,8 @@ tags: [nyc, pluto, construction, opendata]
 
 Do you ever walk around NYC and wonder how old the buildings are around you?  With the help of NYC [OpenData](https://nycopendata.socrata.com) program (and the [Pluto](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) dataset in particular) we can find out!  Turns out, the median age of buildings, weighted by their square footage, is about 77 years old (the median construction year is 1940).  If we consider the last time a building was updated, this changes to 1965.  Each borough has their own age though:
 
-![Age of Boroughs]({{site.url}}/assets/BoroughAges.png)
+{:.noresize}
+[![Age of Boroughs]({{site.url}}/assets/BoroughAges.png)]({{site.url}}/assets/BoroughAges.png)
 
 Brooklyn clocks in as the oldest borough, both when considering original building age (1931) and after considering updates (1941).  Manhattan is interesting, in that it is the second oldest in original construction (1938), but jumps to the most recently updated, with a median update year of 1986.  
 
