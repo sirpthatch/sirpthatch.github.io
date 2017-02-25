@@ -1,2 +1,0 @@
-HackerNews,https://news.ycombinator.com/rss,False
-BBCNews-FP,http://feeds.bbci.co.uk/news/rss.xml?edition=us,True

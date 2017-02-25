@@ -17,7 +17,7 @@ In general, data suggests that bike riding is on the rise in NYC.  On average, t
 
 ### Gender
 
-It is pretty clear that there are more male riders than female riders in NYC, but it is a little surprising to see just how off balance it is.  It is about 80% male versus 20% female, and while that has come down a bit from 2005 (14% female and 86% male) the change is not that signficant and women are still vastly under-represented in the bike lanes..
+It is pretty clear that there are more male riders than female riders in NYC, but it is a little surprising to see just how off balance it is.  It is about 80% male versus 20% female, and while that has come down a bit from 2005 (14% female and 86% male) the change is not that signficant and women are still vastly under-represented in the bike lanes.
 
 ### Helmet Usage
 
