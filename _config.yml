@@ -1,13 +1,13 @@
 # Jekyll Defaults
 title: Thatcher
-description: Muses of a quantified self.
+description: Gymnastics in urban mathematics.
 author: Thatcher Clay
 #baseurl: "https://sirpthatch.github.io"
 
 url: "https://sirpthatch.github.io"
 #url: "http://127.0.0.1:4000"
 github: https://github.com/sirpthatch
-twitter_username: sirpthatch
+twitter_username: thatcherclay
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
