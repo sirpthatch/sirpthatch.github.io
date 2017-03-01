@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Residential Density in NYC"
-date: 2017-02-20 20:00:00
+date: 2017-02-28 18:00:00
 tags: [nyc, pluto, construction, opendata]
 ---
 
-New York City has about 8.4 million people living within the 5 boroughs, and about 5,4 billion square feet of total building space.  Sounds like a lot, but when you break this down to areas zoned for residential living, it averages out to about 531 square feet per person in the city as a whole.  This is not country living, but still, on a whole, not bad.  That said, with a place like NYC, averages often tell a misleading story, and this is certainly true when looking at how much living space people have throughout the city.
+New York City has about 8.4 million people living within the 5 boroughs, and about 5.4 billion square feet of total building space.  Sounds like a lot, but when you break this down to areas zoned for residential living, it averages out to about 531 square feet per person in the city as a whole.  This is not country living, but still, on a whole, not bad.  That said, with a place like NYC, averages often tell a misleading story, and this is certainly true when looking at how much living space people have throughout the city.
 
 {:.noresize}
 [![Top and Bottom Housing]({{site.url}}/assets/TopAndBottomHousingSizes.png)]({{site.url}}/assets/TopAndBottomHousingSizes.png)
