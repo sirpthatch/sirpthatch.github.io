@@ -39,10 +39,12 @@ Thanks to the [restaurant inspections dataset](https://data.cityofnewyork.us/Hea
 
 [![Rodent Cuisine]({{site.url}}/assets/Rodents.Cuisine.png)]({{site.url}}/assets/Rodents.Cuisine.png)
 
-The winner is latin food, with 80% being cited for rodent problems.  Caribbean (79% cited), Delicatessen (75% cited), Indian (75% cited), and Thai (74.5% cited) round out the top five cuisine types where you are most likely to run into a rat.  Looks like rats generally stay away from juice and salad places (39% cited), as well as coffee (45% cited), and ice cream (46% cited).  
+The winner is Latin food, with 80% being cited for rodent problems.  Caribbean (79% cited), Delicatessen (75% cited), Indian (75% cited), and Thai (74.5% cited) round out the top five cuisine types where you are most likely to run into a rat.  Looks like rats generally stay away from juice and salad places (39% cited), as well as coffee (45% cited), and ice cream (46% cited).  
 
-I have to admit, I was really hoping that [french food](https://en.wikipedia.org/wiki/Ratatouille_(film)) was going to be the list, but that is firmly in the middle, with 64% being cited.
+I have to admit, I was really hoping that [French food](https://en.wikipedia.org/wiki/Ratatouille_(film)) was going to top the list, but that is firmly in the middle, with 64% being cited.
  
 # What are rats worst enemy?
 Apparently [terriers](http://gothamist.com/2016/01/09/graphic_video_nyers_go_on_dog_hunts.php) - go figure.
+
+
 
