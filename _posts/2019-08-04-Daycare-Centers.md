@@ -20,7 +20,7 @@ If you are interested in daycare, then it looks like you should be headed to [Du
 | Prospect Heights                                 	| 4962                      	|
 | Clinton Hill                                     	| 4970                      	|
  
-Most of correlates with stroller sightings around those neighborhoods.
+This mostly correlates with stroller sightings around those neighborhoods (though Midtown, really?).
 
 # Where to go to camp?
 Not surprisingly, camps look to be clustered around parks.  The top neighborhoods with camps are:
@@ -41,7 +41,7 @@ Here is the plot of daycare centers throughout the city, controlling for populat
 
 [![People per Daycare]({{site.url}}/assets/PeoplePerDaycare.png)]({{site.url}}/assets/PeoplePerDaycare.png)
 
-Notice anything?  Looks like Queens the outlier.  Either there is a massive shortage of daycare centers in Queens, or daycare centers there are systemically under reported.
+Notice anything?  Looks like Queens is the outlier.  Either there is a massive shortage of daycare centers in Queens, or daycare centers there are systemically under reported.
 
 If we remove Queens from the data, the distribution looks more like this:
 
