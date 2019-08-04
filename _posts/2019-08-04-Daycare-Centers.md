@@ -21,6 +21,7 @@ If you are interested in daycare, then it looks like you should be headed to [Du
 | Clinton Hill                                     	| 4970                      	|
 
 
+
 # Where to go to camp?
 Not surprisingly, camps look to be clustered around parks.  The top neighborhoods with camps are:
 
@@ -31,6 +32,8 @@ Not surprisingly, camps look to be clustered around parks.  The top neighborhood
 | Upper East Side-Carnegie Hill     	| 11              	|
 | East Harlem South                 	| 11              	|
 | Central Harlem North-Polo Grounds 	| 11              	|
+
+
 
 # Where should there by more daycare centers?
 
