@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rats and Restaurants"
+title: "Daycare in NYC"
 date: 2019-08-04 08:00:00
 tags: [nyc, daycare, children, opendata]
 ---
