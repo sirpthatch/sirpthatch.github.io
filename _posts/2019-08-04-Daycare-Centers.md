@@ -13,27 +13,27 @@ Here is how the daycare centers are distributed around the city:
 If you are interested in daycare, then it looks like you should be headed to [Dumbo](https://en.wikipedia.org/wiki/Dumbo,_Brooklyn).  The top five neighborhoods for the availability of infant daycare, controlling for population, are:
 
 | Neighborhood                                     	| People per Infant Daycare 	|
-|--------------------------------------------------	|---------------------------	|
+|:-------------------------------------------------	|:--------------------------	|
 | DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill 	| 3450                      	|
 | Midtown-Midtown South                            	| 4090                      	|
 | Battery Park City-Lower Manhattan                	| 4411                      	|
 | Prospect Heights                                 	| 4962                      	|
 | Clinton Hill                                     	| 4970                      	|
  
- 
+Most of correlates with stroller sightings around those neighborhoods.
 
 # Where to go to camp?
 Not surprisingly, camps look to be clustered around parks.  The top neighborhoods with camps are:
 
 | Neighborhood                      	| Number of Camps 	|
-|-----------------------------------	|-----------------	|
+|:----------------------------------	|:----------------	|
 | Park Slope-Gowanus                	| 24              	|
 | East New York                     	| 12              	|
 | Upper East Side-Carnegie Hill     	| 11              	|
 | East Harlem South                 	| 11              	|
 | Central Harlem North-Polo Grounds 	| 11              	|
- 
- 
+
+Park Slope has double the next most, but if you have visited Prospect Park in the summer this will not surprise you.
 
 # Where should there by more daycare centers?
 
@@ -50,7 +50,7 @@ If we remove Queens from the data, the distribution looks more like this:
 Looks like the neighborhoods with the lowest concentration of daycare centers are mostly in the Bronx.  Here are the top five:
 
 | Neighborhood                   	| Borough       	| People per Daycare 	|
-|--------------------------------	|---------------	|--------------------	|
+|:-------------------------------	|:--------------	|:-------------------	|
 | Arden Heights                  	| Staten Island 	| 12619              	|
 | West Farms-Bronx River         	| The Bronx     	| 11670              	|
 | Stuyvesant Town-Cooper Village 	| Manhattan     	| 10525              	|
