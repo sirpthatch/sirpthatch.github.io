@@ -8,7 +8,7 @@ You are lying on a blanket in the park, soaking up the rays, watching kids run a
 
 Records indicate that since 2022, we have observed a 34% decrease in "filth" in our parks (and yes, the level of inspections appears constant at around 3,000 per year).  The inspection data includes flags for the presence of five issues - animal waste, broken glass, illegal dumping,  graffiti, and medical waste.  Each of them have gone down in the past 3 years:
 
-| **Category**      | **% Decrease** |
+| Category      | % Decrease |
 |-------------------|----------------|
 | Animal Waste      |  29%           |
 | Broken Glass      |  31%           |
